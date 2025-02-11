@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste-react by Charchit Varshney",
+  "scripts": {
+    "test": "jest",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharchitVar/NamasteReact.git"
+  },
+  "keywords": [],
+  "author": "Charchit Varshney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharchitVar/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/CharchitVar/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
